@@ -1,6 +1,13 @@
 #제어문
 
 #조건문
+#if 조건:
+    # 조건이 참일 때 실행할 코드
+
+#반복문
+#for 변수 in 순회할_객체:
+    # 실행할 코드
+
 # score = int(input('점수 입력 : '))
 # grade = ''
 # if score<=100 and score>=85:
